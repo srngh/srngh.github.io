@@ -28,7 +28,8 @@ url: https://soerengh.github.io # the base hostname & protocol for your site, e.
 github_username:  soerengh
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
 
